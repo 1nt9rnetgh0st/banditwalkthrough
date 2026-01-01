@@ -3,8 +3,7 @@
 SSH đến bandit.labs.overthewire.org port 2220 với username bandit0 và mật khẩu bandit0
 
 	ssh bandit0@bandit.labs.overthewire.org -p 2220
-
-![[Pasted image 20251228203246.png]]
+<img width="1051" height="896" alt="image" src="https://github.com/user-attachments/assets/3f94be27-fd23-4273-b082-0b7aefbc323e" />
 
 	ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
@@ -16,7 +15,8 @@ Level này yêu cầu đọc file có tên `-` , mà khi dùng lệnh trực ti�
 
 	263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
-![[Pasted image 20251228211014.png]]
+<img width="849" height="316" alt="image" src="https://github.com/user-attachments/assets/f6b44921-4037-4da4-b5c2-37c28d7f5a6b" />
+
 
 **Level 2 - 3**
 
@@ -24,7 +24,8 @@ Level này cần đọc file tên  `--spaces in this filename--` . Có thể dù
 
 	MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
-![[Pasted image 20251228213607.png]]
+<img width="1038" height="220" alt="image" src="https://github.com/user-attachments/assets/866617d9-d309-45a9-ae92-c9a9634aef1f" />
+
 
 **Level 3 - 4**
 
@@ -32,7 +33,8 @@ Level này cần đọc file tên  `--spaces in this filename--` . Có thể dù
 
 	2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
-![[Pasted image 20251228214056.png]]
+<img width="1046" height="363" alt="image" src="https://github.com/user-attachments/assets/8e9ec1a6-c547-4bc2-ab2b-16abf8428e71" />
+
 
 Level 4 - 5
 
@@ -40,7 +42,8 @@ Level này file cũng nằm ở folder `inhere`, nhưng ở đây có nhiều fi
 
 	4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
-![[Pasted image 20251228215308.png]]
+<img width="1042" height="272" alt="image" src="https://github.com/user-attachments/assets/e80817dc-5481-4ee6-9866-350591cd5fdb" />
+
 
 **Level 5 - 6**
 
@@ -57,8 +60,8 @@ Mình dùng lệnh find với các args tương tự:
 
 	HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 	
-![[Pasted image 20251228222851.png]]
-![[Pasted image 20251228222942.png]]
+<img width="1050" height="113" alt="image" src="https://github.com/user-attachments/assets/bf413cfd-d67a-445f-b3fb-d28789a612c2" />
+<img width="1052" height="115" alt="image" src="https://github.com/user-attachments/assets/ce657d67-d8d3-4fdd-b8e4-c6785c696a29" />
 
 **Level 6 - 7**
 
@@ -77,7 +80,7 @@ Muốn cho kết quả gọn và sạch hơn (Vì find sẽ đi qua lần lượ
 
 	morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
-![[Pasted image 20251228224423.png]]
+<img width="1064" height="153" alt="image" src="https://github.com/user-attachments/assets/c7b47e2c-7b45-4d52-b8e9-43b9491e138d" />
 
 **Level 7 - 8**
 
@@ -87,7 +90,7 @@ Level này pass ở cạnh từ millionth trong file data.txt. Mình đơn giả
 
 	 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
  
-![[Pasted image 20251228224954.png]]
+<img width="1053" height="260" alt="image" src="https://github.com/user-attachments/assets/31cfe862-69ce-4839-b2d8-6a61cd234891" />
  
 **Level 8 - 9**
 
@@ -97,7 +100,7 @@ Level này pass cũng nằm ở file data.txt và là dòng chỉ xuất hiện 
 
 	4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 
-![[Pasted image 20251228230326.png]]
+<img width="1056" height="234" alt="image" src="https://github.com/user-attachments/assets/6cc3a573-ab0b-4556-95b8-c4addb4b7900" />
 
 **Level  9 - 10**
 
@@ -105,5 +108,5 @@ Pass ở level này nằm ở trong file data.txt là một trong những đoạ
 
 	FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
-![[Pasted image 20251228231827.png]]
+<img width="975" height="738" alt="image" src="https://github.com/user-attachments/assets/b1d7021d-0aee-4bd1-8a09-2d58df122503" />
 
